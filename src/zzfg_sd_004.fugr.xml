@@ -10,7 +10,6 @@
    <FUNCTIONS>
     <item>
      <FUNCNAME>ZZFG_SD_004_0001</FUNCNAME>
-     <SHORT_TEXT>销售预制发票创建</SHORT_TEXT>
      <IMPORT>
       <RSIMP>
        <PARAMETER>I_REQ</PARAMETER>
